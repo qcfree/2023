@@ -7,11 +7,6 @@
 
 {"name":"list","type":0,"url":"./tv/list.txt","epg":" ","logo":" "},
 
-{"name":"listx","type":0,"url":"./tv/listx.txt","epg":" ","logo":" "},
-
-{"name":"sex","type":0,"url":"./tv/SEX.txt","epg":" ","logo":" "},
-
-{"name":"live2","type":0,"url":"./tv/live2.txt","epg":" ","logo":" "},
 
 {"name":"直播源","type":0,"url":"./tv/live1.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -33,7 +28,16 @@
 "changeable":0,
 "style":{"type":"rect","ratio":0.75}},
 
-
+{
+              "key":"csp_sp_六威电影",
+              "name":"爬虫|六威电影",
+              "type":3
+              "api":"csp_SixV",
+              "searchable":1,
+              "quickSearch":1,
+              "filterable":1,
+              "ext":"https://www.66s6.cc"
+               },
     {
       "key": "极速资源lz",
       "name": "【非凡工具箱】",
