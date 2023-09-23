@@ -31,7 +31,7 @@
 {
               "key":"csp_sp_六威电影",
               "name":"爬虫|六威电影",
-              "type":3
+              "type":3,
               "api":"csp_SixV",
               "searchable":1,
               "quickSearch":1,
