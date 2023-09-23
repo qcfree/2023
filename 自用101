@@ -5,7 +5,7 @@
   "lives":[
 {"name":"直播","type":0,"url":"./tv/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"list","type":0,"url":"./tv/list.txt","epg":" ","logo":" "},
+{"name":"list","type":0,"url":"./tv/list.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date} ","logo":"https://epg.112114.xyz/logo/{name}.png "},
 
 
 {"name":"直播源","type":0,"url":"./tv/live1.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
